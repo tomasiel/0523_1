@@ -230,5 +230,12 @@ User Group 1: Group Size 100.0 percent
           features: com.ibm.rational.test.lt.feature.lt
           type: com.ibm.rational.test.lt.lttest
           uid: A1F037328D3BBBC0C785B26630383332
+      - name: test2222.testsuite
+        type: com.ibm.rational.test.lt.test
+        version: 11.0.4.0
+        properties: 
+          features: com.ibm.rational.test.lt.feature.lt
+          type: com.ibm.rational.test.lt.lttest
+          uid: A1F0380F6F334020CC08E26463633836
   - name: src
     resources: 
